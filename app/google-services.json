@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780660984460",
+    "firebase_url": "https://fir-andmapspeople.firebaseio.com",
+    "project_id": "fir-andmapspeople",
+    "storage_bucket": "fir-andmapspeople.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780660984460:android:d7585e71aeacb44e2389a9",
+        "android_client_info": {
+          "package_name": "com.example.firebaseandmapspeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780660984460-gpunu78k4olmg23fodfogef8t4qcednf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOaiI0Sn3gL_8X-5vGCgkxMmcuQowVv3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780660984460-gpunu78k4olmg23fodfogef8t4qcednf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

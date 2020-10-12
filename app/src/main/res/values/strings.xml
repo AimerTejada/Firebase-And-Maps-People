@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseAndMapsPeople</string>
+    <string name="google_maps_key">AIzaSyAJzYwQhH4twQcP6tNClcfTKGQ_1DgD_j8</string>
+    <string name="maps_people_key">79f8e7daff76489dace4f9f9</string>
+</resources>
